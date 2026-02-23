@@ -32,4 +32,11 @@ peso = 80
 #Agora, vamos mostrar as 3 variaveis em um print apenas
 print(nome, idade, peso)
 
+#Agora, vamos usar a função input para receber dados do usuario, criar uma interatividade, por exemplo:
+
+nome = input('Qual é seu nome: ')
+idade = input('Quantos anos você tem: ')
+peso = input('Quanto você pesa: ')
+
+print(nome, input, peso)
 
